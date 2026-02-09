@@ -21,14 +21,14 @@
 			</feMerge>
 		</filter></defs>
 		</svg>
-		<div class="canvas-node canvas-node-group " data-node-id="59eada7c3b247bfc" style="transform: translate(-320px, -560px); width: 7520px; height: 5280px;  ">
+		<div class="canvas-node canvas-node-group " data-node-id="59eada7c3b247bfc" style="transform: translate(-320px, -560px); width: 8000px; height: 6320px;  ">
 	<div class="canvas-node-label">Vorm</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="1af963d57cd2add0" style="transform: translate(3520px, -400px); width: 4000px; height: 3680px; --canvas-color: #53dfdd; ">
+	<div class="canvas-node-label">Animation</div>
 </div>
 <div class="canvas-node canvas-node-group has-color" data-node-id="d55fd739e4300e28" style="transform: translate(-240px, -400px); width: 3680px; height: 3680px; --canvas-color: #a882ff; ">
 	<div class="canvas-node-label">Music</div>
-</div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="1af963d57cd2add0" style="transform: translate(3520px, -400px); width: 3520px; height: 3680px; --canvas-color: #53dfdd; ">
-	<div class="canvas-node-label">Animation</div>
 </div>
 <div class="canvas-node canvas-node-group " data-node-id="7a4560cda404f2e8" style="transform: translate(3600px, -280px); width: 3360px; height: 1280px;  ">
 	<div class="canvas-node-label">mixed</div>
@@ -42,12 +42,14 @@
 <div class="canvas-node canvas-node-group " data-node-id="b21bf56026833dc4" style="transform: translate(3600px, 2240px); width: 3360px; height: 920px;  ">
 	<div class="canvas-node-label">Animated pilots</div>
 </div>
-<div class="canvas-node canvas-node-text " data-node-id="02832cef0d90cc19" style="transform: translate(680px, 140px); width: 320px; height: 390px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC90cmFjay8ybHRRYnFFeWV5SUNHRUZlcW5DeTQxP3V0bV9zb3VyY2U9Z2VuZXJhdG9yIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4="></div>
-		</div>
-	</div>
+<div class="canvas-node canvas-node-group " data-node-id="a68684d094ac7cf1" style="transform: translate(-120px, 3680px); width: 300px; height: 300px;  ">
+	<div class="canvas-node-label">Textures</div>
+</div>
+<div class="canvas-node canvas-node-group " data-node-id="e6fb0cd53bd0e790" style="transform: translate(540px, 3680px); width: 300px; height: 300px;  ">
+	<div class="canvas-node-label">Colors</div>
+</div>
+<div class="canvas-node canvas-node-group " data-node-id="60f13a5c8b8e469b" style="transform: translate(1200px, 3680px); width: 300px; height: 300px;  ">
+	<div class="canvas-node-label">??</div>
 </div>
 <div class="canvas-node canvas-node-text " data-node-id="7169199507c6afe0" style="transform: translate(1040px, 140px); width: 320px; height: 390px; ">
 	<div class="canvas-node-container">
@@ -112,10 +114,10 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text " data-node-id="733a544644db6fe2" style="transform: translate(2121px, -300px); width: 320px; height: 390px; ">
+<div class="canvas-node canvas-node-text " data-node-id="733a544644db6fe2" style="transform: translate(2121px, -300px); width: 320px; height: 392px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC90cmFjay8xUFhvYnlxZVUzZEtnSm1iOWJnNTFwP3V0bV9zb3VyY2U9Z2VuZXJhdG9yIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4="></div>
+			<div class="canvas-node-text-content" data-markdown=""></div>
 		</div>
 	</div>
 </div>
@@ -154,20 +156,6 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text " data-node-id="672d373aa3529c12" style="transform: translate(680px, 580px); width: 320px; height: 390px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC90cmFjay83Z05NQTQ0a3I0WDlnM0tWZGx6RTBSP3V0bV9zb3VyY2U9Z2VuZXJhdG9yIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="d2c0272b591da6a3" style="transform: translate(1040px, -300px); width: 320px; height: 390px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC90cmFjay8xbkdhYnY3WWVZWU42c092ck9oT1JpP3V0bV9zb3VyY2U9Z2VuZXJhdG9yIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4="></div>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text " data-node-id="f1bea3ca09ad4761" style="transform: translate(1400px, -300px); width: 320px; height: 390px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
@@ -175,24 +163,10 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text " data-node-id="0ba07a9ef357add1" style="transform: translate(1761px, -300px); width: 320px; height: 390px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC90cmFjay83aUpXWUtUWmJvaVZoNXcwVUx4MmhUP3V0bV9zb3VyY2U9Z2VuZXJhdG9yIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="26342ed15864f87e" style="transform: translate(680px, -300px); width: 320px; height: 390px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC90cmFjay8wUzdYSXUwZG42M2F5R3hqZWZkNUl0P3V0bV9zb3VyY2U9Z2VuZXJhdG9yIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4="></div>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-text " data-node-id="5cb32d3d5cae29cd" style="transform: translate(-120px, -300px); width: 660px; height: 3350px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyMgRmF2b3JpdGUgc291bmR0cmFja3MvYWxidW1zCgpIb3cgdG8gdHJhaW4geW91ciBkcmFnb24gKHRyaWxvZ3kpCjxpZnJhbWUgZGF0YS10ZXN0aWQ9ImVtYmVkLWlmcmFtZSIgc3R5bGU9ImJvcmRlci1yYWRpdXM6MTJweCIgc3JjPSJodHRwczovL29wZW4uc3BvdGlmeS5jb20vZW1iZWQvYWxidW0vMWtUbkMwNDVtUXF1clRRdkdNR3BtVT91dG1fc291cmNlPWdlbmVyYXRvciZ0aGVtZT0wIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4KLSB0aGlzIGlzIGJlcmsKLSBmb3JiaWRkZW4gZnJpZW5kc2hpcAotIHNlZSB5b3UgdG9tb3Jyb3cKLSB0ZXN0IGRyaXZlCi0gcm9tYW50aWMgZmxpZ2h0Ci0gdG9nZXRoZXIgd2UgbWFwIHRoZSB3b3JsZAotIGZseWluZyB3aXRoIG1vdGhlcgotIHN0b2ljaydzIHNoaXAKLSBleG9kdXMKClNreWxhbmRlcnMKPGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC9wbGF5bGlzdC8wazdDa0taMkpRRDZxenRYU2hnb3ZqP3V0bV9zb3VyY2U9Z2VuZXJhdG9yJnRoZW1lPTAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjM1MiIgZnJhbWVCb3JkZXI9IjAiIGFsbG93ZnVsbHNjcmVlbj0iIiBhbGxvdz0iYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiIGxvYWRpbmc9ImxhenkiPjwvaWZyYW1lPgotIHNreWxhbmRlcnMgbWFpbiB0aGVtZQotIGNyeXN0YWwgZXllIHJ1aW5zCi0gZXhwbG9yaW5nIHRoZSBydWlucwotIGdpYW50cwotIGp1bmt5YXJkIGlzbGVzCi0gY3V0dGhyb2F0IGNhcm5pdmFsCi0gZ2xhY2llciBndWxseSAKLSBzZWNyZXQgdmF1bHQgb2Ygc2VjcmV0cwotIHRoZSBvcmFjbGUKLSB3aWxpa2luIHZpbGxhZ2UKLSBzbGlwcGVyeSB0dW5uZWwKLSByZXNjdWUgdGhlIGNoaWVmdGVzcwotIHNlcnBlbnQncyBwZWFrCi0gdGhlIHN1cGVyY2hhcmdlcnMKLSB3YXRlcmRyb3Agd2F5Ci0gZnJhc2VyJ3MgdHJlZWhvdXNlCi0gcmlmdCBpbnRvIG92ZXJkcml2ZQoK"></div>
+			<div class="canvas-node-text-content" data-markdown="IyMgRmF2b3JpdGUgc291bmR0cmFja3MvYWxidW1zCgpIb3cgdG8gdHJhaW4geW91ciBkcmFnb24gKHRyaWxvZ3kpCjxpZnJhbWUgZGF0YS10ZXN0aWQ9ImVtYmVkLWlmcmFtZSIgc3R5bGU9ImJvcmRlci1yYWRpdXM6MTJweCIgc3JjPSJodHRwczovL29wZW4uc3BvdGlmeS5jb20vZW1iZWQvYWxidW0vMWtUbkMwNDVtUXF1clRRdkdNR3BtVT91dG1fc291cmNlPWdlbmVyYXRvciZ0aGVtZT0wIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4KLSB0aGlzIGlzIGJlcmsKLSBmb3JiaWRkZW4gZnJpZW5kc2hpcAotIHNlZSB5b3UgdG9tb3Jyb3cKLSB0ZXN0IGRyaXZlCi0gcm9tYW50aWMgZmxpZ2h0Ci0gdG9nZXRoZXIgd2UgbWFwIHRoZSB3b3JsZAotIGZseWluZyB3aXRoIG1vdGhlcgotIHN0b2ljaydzIHNoaXAKLSBleG9kdXMKClNreWxhbmRlcnMKPGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC9wbGF5bGlzdC8wazdDa0taMkpRRDZxenRYU2hnb3ZqP3V0bV9zb3VyY2U9Z2VuZXJhdG9yJnRoZW1lPTAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjM1MiIgZnJhbWVCb3JkZXI9IjAiIGFsbG93ZnVsbHNjcmVlbj0iIiBhbGxvdz0iYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiIGxvYWRpbmc9ImxhenkiPjwvaWZyYW1lPgotIHNreWxhbmRlcnMgbWFpbiB0aGVtZQotIGNyeXN0YWwgZXllIHJ1aW5zCi0gZXhwbG9yaW5nIHRoZSBydWlucwotIGdpYW50cwotIGp1bmt5YXJkIGlzbGVzCi0gY3V0dGhyb2F0IGNhcm5pdmFsCi0gZ2xhY2llciBndWxseSAKLSBzZWNyZXQgdmF1bHQgb2Ygc2VjcmV0cwotIHRoZSBvcmFjbGUKLSB3aWxpa2luIHZpbGxhZ2UKLSBzbGlwcGVyeSB0dW5uZWwKLSByZXNjdWUgdGhlIGNoaWVmdGVzcwotIHNlcnBlbnQncyBwZWFrCi0gdGhlIHN1cGVyY2hhcmdlcnMKLSB3YXRlcmRyb3Agd2F5Ci0gZnJhc2VyJ3MgdHJlZWhvdXNlCi0gcmlmdCBpbnRvIG92ZXJkcml2ZQoKTmluamFnbwo8aWZyYW1lIGRhdGEtdGVzdGlkPSJlbWJlZC1pZnJhbWUiIHN0eWxlPSJib3JkZXItcmFkaXVzOjEycHgiIHNyYz0iaHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VtYmVkL3BsYXlsaXN0LzQxeG9wcEFMd0c2TnN2QmJ0Qm10ajk/dXRtX3NvdXJjZT1nZW5lcmF0b3ImdGhlbWU9MCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMzUyIiBmcmFtZUJvcmRlcj0iMCIgYWxsb3dmdWxsc2NyZWVuPSIiIGFsbG93PSJhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGZ1bGxzY3JlZW47IHBpY3R1cmUtaW4tcGljdHVyZSIgbG9hZGluZz0ibGF6eSI+PC9pZnJhbWU+Ci0gbmluamFnbyBvdmVydHVyZQotIHRyYWluaW5nIGNvdXJzZQotIHRoZSBtYWlsbWFuIC8gamF5J3MgcGFyZW50cwotIGZhbGNvbiBjaGFzZQotIHphbmUncyB0cnVlIHBvdGVudGlhbAotIHJldmVhbGluZyB0aGUgZ3JlZW4gbmluamEKLSBtaXNha28KLSB0aGUgdGlua2VyZXIncyB0YWxlCi0gZHJhZ29ucyByaXNpbmcgbWFpbiB0aGVtZQotIHRoZSBtZXJnZQotIGFyaW4gYW5kIHNvcmEKLSBidWlsdCB0byBwcm90ZWN0Cgo8aWZyYW1lIGRhdGEtdGVzdGlkPSJlbWJlZC1pZnJhbWUiIHN0eWxlPSJib3JkZXItcmFkaXVzOjEycHgiIHNyYz0iaHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VtYmVkL3BsYXlsaXN0LzZ3NGdVOG9lY1ZLblhhYVI1WlBteDM/dXRtX3NvdXJjZT1nZW5lcmF0b3IiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjM1MiIgZnJhbWVCb3JkZXI9IjAiIGFsbG93ZnVsbHNjcmVlbj0iIiBhbGxvdz0iYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiIGxvYWRpbmc9ImxhenkiPjwvaWZyYW1lPgotIHplcm8gaG91cgotIGVzcGVyYW7Dp2EKLSBhbnRhcmN0aWMgcGVuaW5zdWxhCi0gY29sb3NzZW8KLSBjaXJjdWl0IHJveWFsCi0gZmxvdwotIG9wZW5pbmcKLSBidXNhbgotIGJsaXp6YXJkIHdvcmxkCi0gYXl1dHRoYXlhCi0gb2FzaXMKLSBob2xseXdvb2QKLSBoYW5hbXVyYQotIGlsaW9zCi0ga2luZ3Mgcm93Ci0gbmVwYWwKLSBjaGF0ZWF1IGdpbGxpYXJkCi0gbnVtYmFuaQotIGRyYWdvbnMKLSBzb21icmEKCgo="></div>
 		</div>
 	</div>
 </div>
@@ -544,6 +518,20 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9YMGh5VG1sc0JVST9zaT1ES0V5V0VHaGY3V1NqcG1PIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiByZWZlcnJlcnBvbGljeT0ic3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="02832cef0d90cc19" style="transform: translate(1040px, -300px); width: 320px; height: 390px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC90cmFjay8ybHRRYnFFeWV5SUNHRUZlcW5DeTQxP3V0bV9zb3VyY2U9Z2VuZXJhdG9yIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="672d373aa3529c12" style="transform: translate(1761px, -300px); width: 320px; height: 390px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSBkYXRhLXRlc3RpZD0iZW1iZWQtaWZyYW1lIiBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMnB4IiBzcmM9Imh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lbWJlZC90cmFjay83Z05NQTQ0a3I0WDlnM0tWZGx6RTBSP3V0bV9zb3VyY2U9Z2VuZXJhdG9yIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzNTIiIGZyYW1lQm9yZGVyPSIwIiBhbGxvd2Z1bGxzY3JlZW49IiIgYWxsb3c9ImF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBsb2FkaW5nPSJsYXp5Ij48L2lmcmFtZT4="></div>
 		</div>
 	</div>
 </div>
