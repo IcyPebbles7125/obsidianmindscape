@@ -7,5 +7,5 @@
 [[Portfolio\|Portfolio]]
 
 This is a collection of inspiring stuff :3
-[Beeldbank](SL.CP_BeeldBank.canvas)
+[[mindscape/SL./SL.CP_BeeldBank.canvas\|SL.CP_BeeldBank.canvas]]
 
