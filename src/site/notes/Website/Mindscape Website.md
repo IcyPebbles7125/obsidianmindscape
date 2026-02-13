@@ -18,4 +18,6 @@
 This is my website to document some of my creative works.
 I am primarily a worldbuilder and storyteller, and use different forms of art and music to express these stories.
 
-https://obsidianmindscape.vercel.app
+Website was made with Obsidian and the community plugin: Digital Garden.
+
+`` https://obsidianmindscape.vercel.app
