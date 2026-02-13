@@ -9,4 +9,4 @@
 [[Portfolio\|Portfolio]]
 
 
-[[Blog - Profilering\|Blog - Profilering]]
+[[Blog - Creatief Profilering\|Blog - Creatief Profilering]]
