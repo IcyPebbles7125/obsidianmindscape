@@ -179,11 +179,11 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="81b09a12c6453eca" data-file-path="mindscape/mp3/rising (mix rick).mp3" style="transform: translate(982px, 2654px); width: 400px; height: 42px; ">
-	<div class="canvas-node-label">rising (mix rick).mp3</div>
+<div class="canvas-node canvas-node-file " data-node-id="81b09a12c6453eca" data-file-path="mindscape/mp3/rising.mp3" style="transform: translate(982px, 2654px); width: 400px; height: 42px; ">
+	<div class="canvas-node-label">rising.mp3</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/mindscape/mp3/rising-mix-rick//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/mindscape/mp3/rising//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
