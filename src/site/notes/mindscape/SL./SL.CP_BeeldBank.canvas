@@ -21,7 +21,7 @@
 			</feMerge>
 		</filter></defs>
 		</svg>
-		<div class="canvas-node canvas-node-group " data-node-id="59eada7c3b247bfc" style="transform: translate(-320px, -560px); width: 7840px; height: 7120px;  ">
+		<div class="canvas-node canvas-node-group " data-node-id="59eada7c3b247bfc" style="transform: translate(-320px, -560px); width: 7840px; height: 6800px;  ">
 	<div class="canvas-node-label">Vorm</div>
 </div>
 <div class="canvas-node canvas-node-group has-color" data-node-id="1af963d57cd2add0" style="transform: translate(3520px, -400px); width: 3840px; height: 3680px; --canvas-color: #53dfdd; ">
@@ -30,10 +30,10 @@
 <div class="canvas-node canvas-node-group has-color" data-node-id="d55fd739e4300e28" style="transform: translate(-160px, -400px); width: 3600px; height: 3680px; --canvas-color: #a882ff; ">
 	<div class="canvas-node-label">Music</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="60f13a5c8b8e469b" style="transform: translate(-160px, 3680px); width: 3600px; height: 2720px; --canvas-color: #44cf6e; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="60f13a5c8b8e469b" style="transform: translate(-160px, 3360px); width: 3600px; height: 2720px; --canvas-color: #44cf6e; ">
 	<div class="canvas-node-label">Backgrounds</div>
 </div>
-<div class="canvas-node canvas-node-group " data-node-id="f198d39e0205ae86" style="transform: translate(-40px, 4520px); width: 3400px; height: 1800px;  ">
+<div class="canvas-node canvas-node-group " data-node-id="f198d39e0205ae86" style="transform: translate(-40px, 4200px); width: 3400px; height: 1800px;  ">
 	<div class="canvas-node-label">My backggrounds</div>
 </div>
 <div class="canvas-node canvas-node-group " data-node-id="7a4560cda404f2e8" style="transform: translate(3600px, -280px); width: 3360px; height: 1280px;  ">
@@ -47,12 +47,6 @@
 </div>
 <div class="canvas-node canvas-node-group " data-node-id="b21bf56026833dc4" style="transform: translate(3600px, 2240px); width: 3360px; height: 920px;  ">
 	<div class="canvas-node-label">Animated pilots</div>
-</div>
-<div class="canvas-node canvas-node-group " data-node-id="a68684d094ac7cf1" style="transform: translate(3520px, 3680px); width: 300px; height: 300px;  ">
-	<div class="canvas-node-label">Textures</div>
-</div>
-<div class="canvas-node canvas-node-group " data-node-id="e6fb0cd53bd0e790" style="transform: translate(4180px, 3680px); width: 300px; height: 300px;  ">
-	<div class="canvas-node-label">Colors</div>
 </div>
 <div class="canvas-node canvas-node-file " data-node-id="c0cfadc6d4bf274f" data-file-path="mindscape/mp3/Spark.mp3" style="transform: translate(1419px, 2575px); width: 400px; height: 42px; ">
 	<div class="canvas-node-label">Spark.mp3</div>
@@ -217,13 +211,6 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered">
 			<div class="canvas-node-text-content" data-markdown="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC8xVFJ6ZW1KYlVzdz9zaT1PNHBQZi1sb0xXdkxvSXowIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiByZWZlcnJlcnBvbGljeT0ic3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="e703034232b78582" style="transform: translate(-40px, 3800px); width: 706px; height: 315px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/mindscape/png/Neytirix%20art1.jpg" alt="Neytirix art1.jpg" loading="lazy" />
 		</div>
 	</div>
 </div>
@@ -545,122 +532,129 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="071352af25b9811c" style="transform: translate(718px, 3801px); width: 616px; height: 314px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/mindscape/png/Neytirix%20art2.jpg" alt="Neytirix art2.jpg" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="497084fad176050a" style="transform: translate(1398px, 3801px); width: 704px; height: 314px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="497084fad176050a" style="transform: translate(1398px, 3481px); width: 704px; height: 314px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/mindscape/png/Neytirix%20art3.jpg" alt="Neytirix art3.jpg" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="5609f6d63f9d5c62" style="transform: translate(-1px, 4640px); width: 364px; height: 364px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="071352af25b9811c" style="transform: translate(718px, 3481px); width: 616px; height: 314px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/mindscape/png/Neytirix%20art2.jpg" alt="Neytirix art2.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="5609f6d63f9d5c62" style="transform: translate(-1px, 4320px); width: 364px; height: 364px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/mindscape/png/Manoria%20art.png" alt="Manoria art.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="2d6df0f8bf138b0b" style="transform: translate(13px, 5889px); width: 654px; height: 368px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="2d6df0f8bf138b0b" style="transform: translate(13px, 5569px); width: 654px; height: 368px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/environmental%20art%201.png" alt="environmental art 1.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="2d7754c1a9a28362" style="transform: translate(727px, 5889px); width: 491px; height: 368px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="2d7754c1a9a28362" style="transform: translate(727px, 5569px); width: 491px; height: 368px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/talu%20nokon%20tree%20art.png" alt="talu nokon tree art.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="7f7c105a7adb7055" style="transform: translate(1283px, 5889px); width: 491px; height: 368px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="7f7c105a7adb7055" style="transform: translate(1283px, 5569px); width: 491px; height: 368px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/kiore%20concept%201.png" alt="kiore concept 1.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="8bca46d5b771156a" style="transform: translate(415px, 4640px); width: 648px; height: 364px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="8bca46d5b771156a" style="transform: translate(415px, 4320px); width: 648px; height: 364px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/mindscape/png/Irnika%20rendered.png" alt="Irnika rendered.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="7db14d72c1d4a64c" style="transform: translate(-1px, 5040px); width: 780px; height: 373px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="7db14d72c1d4a64c" style="transform: translate(-1px, 4720px); width: 780px; height: 373px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/environmental%20art%204.png" alt="environmental art 4.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="e674f1330b6ea6d6" style="transform: translate(-1px, 5466px); width: 1022px; height: 368px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="e674f1330b6ea6d6" style="transform: translate(-1px, 5146px); width: 1022px; height: 368px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/hioroto%20concept%20art.png" alt="hioroto concept art.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="5bcf2244a350a760" style="transform: translate(1108px, 5466px); width: 1022px; height: 368px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/environmental%20art%203.png" alt="environmental art 3.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="9fc92346a781e823" style="transform: translate(2215px, 5466px); width: 654px; height: 368px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content image-embed">
-			<img src="/img/user/environmental%20art%202.png" alt="environmental art 2.png" loading="lazy" />
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="56d4d85971e4044f" style="transform: translate(853px, 5040px); width: 520px; height: 368px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="56d4d85971e4044f" style="transform: translate(853px, 4720px); width: 520px; height: 368px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/Mycelium%20art.png" alt="Mycelium art.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="a1e222ebf2bf94d8" style="transform: translate(1125px, 4640px); width: 648px; height: 364px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="a1e222ebf2bf94d8" style="transform: translate(1125px, 4320px); width: 648px; height: 364px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/mindscape/png/Mayu%20art.png" alt="Mayu art.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="329787db0cb16c37" style="transform: translate(1819px, 4640px); width: 647px; height: 364px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="329787db0cb16c37" style="transform: translate(1819px, 4320px); width: 647px; height: 364px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/kiore%20concept%202.png" alt="kiore concept 2.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="3e75cd744ed20fa0" style="transform: translate(2522px, 4640px); width: 761px; height: 364px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="3e75cd744ed20fa0" style="transform: translate(2522px, 4320px); width: 761px; height: 364px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/clouds%20of%20gates.png" alt="clouds of gates.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="4190dc3c1cf9ffe5" style="transform: translate(1435px, 5040px); width: 654px; height: 368px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="5bcf2244a350a760" style="transform: translate(1108px, 5146px); width: 1022px; height: 368px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/environmental%20art%203.png" alt="environmental art 3.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="9fc92346a781e823" style="transform: translate(2215px, 5146px); width: 654px; height: 368px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/environmental%20art%202.png" alt="environmental art 2.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="4190dc3c1cf9ffe5" style="transform: translate(1435px, 4720px); width: 654px; height: 368px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/Mii%20art.png" alt="Mii art.png" loading="lazy" />
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="8851e792cd2ba7af" style="transform: translate(2164px, 5040px); width: 1022px; height: 368px; ">
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="8851e792cd2ba7af" style="transform: translate(2164px, 4720px); width: 1022px; height: 368px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content image-embed">
 			<img src="/img/user/vanura%20spirits.png" alt="vanura spirits.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="e703034232b78582" style="transform: translate(-40px, 3480px); width: 706px; height: 315px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/mindscape/png/Neytirix%20art1.jpg" alt="Neytirix art1.jpg" loading="lazy" />
 		</div>
 	</div>
 </div>
