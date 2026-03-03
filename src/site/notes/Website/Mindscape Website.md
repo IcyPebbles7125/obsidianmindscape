@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/website/mindscape-website/","tags":["gardenEntry"]}
 ---
 
-![LV Shiny Logo.png](/img/user/mindscape/png/LV%20Shiny%20Logo.png)
+
+
+
+![Lenur Verutis Logo.png| middle](/img/user/mindscape/png/Lenur%20Verutis%20Logo.png)
 
 ---
 ## <font color="#00b050">Pepijn Smeets</font>
@@ -43,3 +46,4 @@ Check out https://dg-docs.ole.dev for more information.
 
 
 ---
+
