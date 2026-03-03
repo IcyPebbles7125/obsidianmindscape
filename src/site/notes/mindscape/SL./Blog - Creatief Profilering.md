@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mindscape/sl/blog-creatief-profilering/"}
 ---
 
-
+## Creatief profilering
 
 ![Irnika rendered.png](/img/user/mindscape/png/Irnika%20rendered.png)
 
