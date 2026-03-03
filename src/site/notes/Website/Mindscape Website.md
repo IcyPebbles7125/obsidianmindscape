@@ -8,7 +8,7 @@
 ![Lenur Verutis Logo.png| middle](/img/user/mindscape/png/Lenur%20Verutis%20Logo.png)
 
 ---
-## <font color="#00b050">Pepijn Smeets</font>
+## <font color="#b20cff">Pepijn Smeets</font>
 
 
 
@@ -22,7 +22,7 @@
 
 ---
 
-## <font color="#00b050">Socials</font> 
+## <font color="#b20cff">Socials</font> 
 
 
 
@@ -32,7 +32,7 @@ This site: https://obsidianmindscape.vercel.app
 
 
 
-## <font color="#00b050">INFO</font>
+## <font color="#b20cff">INFO</font>
 
 
 
@@ -40,7 +40,7 @@ This is my website to document some of my creative works.
 I am primarily a worldbuilder and storyteller, and use different forms of art and music to express these stories.
 
 Website was made with Obsidian and the community plugin: Digital Garden.
-Check out https://dg-docs.ole.dev for more information.
+Check out <span style="background:#affad1">https://dg-docs.ole.dev</span> for more information.
 
 
 
