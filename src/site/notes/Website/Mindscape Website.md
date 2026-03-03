@@ -18,6 +18,18 @@
 
 
 ---
+
+## <font color="#00b050">Socials</font> 
+
+
+
+Youtube: https://youtube.com/@icypebbles4438?si=yJxplPM3NJo-z16V
+Cara: https://cara.app/icypebbles
+This site: https://obsidianmindscape.vercel.app
+
+
+
+---
 ## <font color="#00b050">INFO</font>
 
 
@@ -27,8 +39,6 @@ I am primarily a worldbuilder and storyteller, and use different forms of art an
 
 Website was made with Obsidian and the community plugin: Digital Garden.
 Check out https://dg-docs.ole.dev for more information.
-
-https://obsidianmindscape.vercel.app
 
 
 
