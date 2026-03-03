@@ -5,7 +5,6 @@
 
 
 
-
 ![Lenur Verutis Logo.png| middle](/img/user/mindscape/png/Lenur%20Verutis%20Logo.png)
 
 ---
@@ -33,7 +32,6 @@ This site: https://obsidianmindscape.vercel.app
 
 
 
----
 ## <font color="#00b050">INFO</font>
 
 
