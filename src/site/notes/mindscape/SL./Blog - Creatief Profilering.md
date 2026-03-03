@@ -9,3 +9,8 @@ This is a collection of inspiring stuff :3
 
 [[mindscape/SL./SL.CP_blog - week 1\|SL.CP_blog - week 1]]
 [[mindscape/SL./SL.CP_blog - week 2\|SL.CP_blog - week 2]]
+[[SL.CP_blog - week 3\|SL.CP_blog - week 3]]
+
+
+
+

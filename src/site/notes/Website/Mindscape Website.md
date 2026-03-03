@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/website/mindscape-website/","tags":["gardenEntry"]}
 ---
 
-
+---
 ## <font color="#00b050">Pepijn Smeets</font>
 
 
