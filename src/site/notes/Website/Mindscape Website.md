@@ -8,7 +8,7 @@
 ![Lenur Verutis Logo.png| middle](/img/user/mindscape/png/Lenur%20Verutis%20Logo.png)
 
 ---
-## <font color="#b20cff">Pepijn Smeets</font>
+## <font color="#00ffa0">Pepijn Smeets</font>
 
 
 
@@ -21,18 +21,18 @@
 
 
 ---
-
-## <font color="#b20cff">Socials</font> 
-
-
-
-Youtube: <font color="#00ffa0">https://youtube.com/@icypebbles4438?si=yJxplPM3NJo-z16V</font>
-Cara: <font color="#00ffa0">https://cara.app/icypebbles</font>
-This site: <font color="#00ffa0">https://obsidianmindscape.vercel.app</font>
+## <font color="#00ffa0">Socials</font> 
 
 
 
-## <font color="#b20cff">INFO</font>
+Youtube: https://youtube.com/@icypebbles4438?si=yJxplPM3NJo-z16V
+Cara: https://cara.app/icypebbles
+This site: https://obsidianmindscape.vercel.app
+
+
+
+---
+## <font color="#00ffa0">INFO</font>
 
 
 
