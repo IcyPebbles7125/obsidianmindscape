@@ -26,9 +26,9 @@
 
 
 
-Youtube: https://youtube.com/@icypebbles4438?si=yJxplPM3NJo-z16V
-Cara: https://cara.app/icypebbles
-This site: https://obsidianmindscape.vercel.app
+Youtube: <font color="#00ffa0">https://youtube.com/@icypebbles4438?si=yJxplPM3NJo-z16V</font>
+Cara: <font color="#00ffa0">https://cara.app/icypebbles</font>
+This site: <font color="#00ffa0">https://obsidianmindscape.vercel.app</font>
 
 
 
@@ -40,7 +40,7 @@ This is my website to document some of my creative works.
 I am primarily a worldbuilder and storyteller, and use different forms of art and music to express these stories.
 
 Website was made with Obsidian and the community plugin: Digital Garden.
-Check out <span style="background:#affad1">https://dg-docs.ole.dev</span> for more information.
+Check out <font color="#00ffa0">https://dg-docs.ole.dev</font> for more information.
 
 
 
