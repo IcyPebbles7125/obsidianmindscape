@@ -46,3 +46,4 @@ Check out <font color="#00ffa0">https://dg-docs.ole.dev</font> for more informat
 
 ---
 
+![Irnika rendered.png](/img/user/mindscape/png/Irnika%20rendered.png)

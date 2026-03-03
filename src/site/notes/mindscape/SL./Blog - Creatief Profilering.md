@@ -4,7 +4,7 @@
 
 ## Creatief profilering
 
-![Irnika rendered.png](/img/user/mindscape/png/Irnika%20rendered.png)
+![hioroto concept art.png](/img/user/mindscape/png/hioroto%20concept%20art.png)
 
 ---
 ## Beeldbank
