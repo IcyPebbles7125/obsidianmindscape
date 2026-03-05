@@ -5,7 +5,8 @@
 ### Week 3
 
 *Les 1:*
-
+na de 
+![SL.CP - art4.jpeg](/img/user/SL.CP%20-%20art4.jpeg)
 
 
 *Les 2: rondleiding Design Academy*
