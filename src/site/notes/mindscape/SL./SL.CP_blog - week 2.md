@@ -7,14 +7,15 @@
 *Les 1: thuiswerken*
 
 Omdat mijn beeldbank nog niet af was heb ik thuis een paar uur aan gewerkt. 
-Ik heb mijn beeldbank op gedeeld in: muziek, animatie, achtergronden, kleur, textuur.
+Ik heb mijn beeldbank op gedeeld in de vlakken: muziek, animatie, achtergronden.
+dit zijn de 3 onderdelen waar ik altijd veel inspiratie vandaan haal
 
 *les 2:*
 ![SL.CP - art1.jpeg](/img/user/mindscape/png/SL.CP%20-%20art1.jpeg)
 De reactie van Nicole Marie op mijn werk. 
-Dit was het origineel: https://www.behance.net/gallery/227926701/Module-periode-4.
-De interpretatie was een spin met poten die een beetje gecamoufleerd tussen de bomen jaagt en het karakter de prooi is.
-Waar mijn originele animatie het karakter in de voorgrond hebt, alsof je van zijn perspectief kijkt, is het hier omgedraaid en zie je het monster duidelijk.
+Hier een link naar het originele werk: https://www.behance.net/gallery/227926701/Module-periode-4.
+De interpretatie was een spin met poten die gecamoufleerd tussen de bomen jaagt en dat het karakter de prooi is.
+Waar in mijn originele animatie het karakter in de voorgrond staat, alsof je het van zijn perspectief kijkt, is het hier omgedraaid en zie je het monster duidelijk voorop staan.
 
 
 
