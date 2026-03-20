@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/mindscape/sl/sl-cp-blog-week-1/"}
 ---
 
+
 ## Week 1
 
 *les 1:*
