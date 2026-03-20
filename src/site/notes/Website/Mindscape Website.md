@@ -7,15 +7,15 @@
 ![Lenur Verutis Logo.png| middle](/img/user/mindscape/png/Lenur%20Verutis%20Logo.png)
 
 ---
- <center><font color="#00ffa0">Pepijn Smeets</font></center>
+## <font color="#00ffa0">Pepijn Smeets</font>
 
 
 
-<center>[[Website/Portfolio\|Portfolio]]
+[[Website/Portfolio\|Portfolio]]
 
 [[mindscape/SL./Blog - Creatief Profilering\|Blog - Creatief Profilering]]
 
-[[Stories\|Stories]]</center>
+[[Stories\|Stories]]
 
 
 
