@@ -19,8 +19,8 @@ geboden:
 6. het straalt een sterke emotie uit als primair doel / moet indrukwekkend zijn
 7. style is uniek per experiment zodat het passend is bij het gevoel 
 8. experimenteer eerst met kleinere delen voordat het een geheel word (maak een blad met kleur testen, een blad met of zonder line-art en verschillende vormen van line-art etc)
-9. 
-10. 
+9. ten minste 2 experimenten met verschillende materialen 
+10. onderzoek alle gevoelens/emoties en maak daar moodboarden, schetsen en een kort stuk text bij :3
 
 
 
