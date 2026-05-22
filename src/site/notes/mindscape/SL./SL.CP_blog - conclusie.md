@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/mindscape/sl/sl-cp-blog-conclusie/"}
 ---
 
+
 ## Emotions Visualised 
 
 Voor een lange tijd heb ik al een interesse gehad in het gevoel dat een beeld meegeeft. 
