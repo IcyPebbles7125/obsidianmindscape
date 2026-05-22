@@ -7,5 +7,8 @@
 
 *les 1:*
 
-De eerste week was de opstart van dit keuzedeel, waar we de eerste les gezamenlijk opstartte en een paar kleine opdrachten deden voor kennismaking. 
+De eerste week was de opstart van dit keuzedeel, waar we de eerste les gezamenlijk opstartte en een paar kleine opdrachten deden als kennismaking. 
 We kregen de opdracht om een beeldbank te maken en daar hadden we een beetje tijd in de les voor.
+De beeldbank is een collectie van bronnen die inspirerend zijn.
+
+[[mindscape/SL./SL.CP_BeeldBank.canvas\|SL.CP_BeeldBank.canvas]]

@@ -7,10 +7,9 @@
 
 *Les 1: thuiswerken*
 
-Omdat mijn beeldbank nog niet af was heb ik thuis een paar uur aan gewerkt. 
+Omdat mijn beeldbank nog niet af was heb ik er thuis een paar uur aan gewerkt. 
 Ik heb mijn beeldbank op gedeeld in de vlakken: muziek, animatie, achtergronden.
-dit zijn de 3 onderdelen waar ik altijd veel inspiratie vandaan haal
-
+dit zijn de 3 onderdelen waar ik altijd veel inspiratie vandaan haal. 
 
 
 

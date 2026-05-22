@@ -8,7 +8,7 @@
 *les 1:*
 Onderzoeksvraag aangevuld, blog beter uitgeschreven en andere kleine fixes bijgewerkt.
 Foto's verzamelen die mij inspireren, zoals al deze foto's die ik afgelopen jaar heb gemaakt en nu bij elkaar heb verzameld. 
-![flower album ss.png](/img/user/flower%20album%20ss.png)
+![flower album ss.png](/img/user/mindscape/SL./flower%20album%20ss.png)
 
 
 *les 2: reflectie*

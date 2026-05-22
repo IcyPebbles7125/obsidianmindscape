@@ -3,8 +3,8 @@
 ---
 
 ---
-
-![Lenur Verutis Logo.png| middle](/img/user/mindscape/png/Lenur%20Verutis%20Logo.png)
+ 
+![Lenur Verutis Logo.png|middle|65](/img/user/mindscape/png/Lenur%20Verutis%20Logo.png)
 
 ---
 ## <font color="#00ffa0">Pepijn Smeets</font>
@@ -15,7 +15,7 @@
 
 [[mindscape/SL./Blog - Creatief Profilering\|Blog - Creatief Profilering]]
 
-[[Stories\|Stories]]
+[[Website/Stories\|Stories]]
 
 
 

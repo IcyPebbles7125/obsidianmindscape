@@ -23,7 +23,7 @@ geboden:
 10. onderzoek alle gevoelens/emoties en maak daar moodboarden, schetsen en een kort stuk text bij :3
 
 
-Ik heb dit samen besproken met een paar vrienden voor feedback. 
+Ik heb dit samen besproken met een paar vrienden voor feedback, waardoor ik een paar punten beter heb geformuleerd.
 
 
 planning:
