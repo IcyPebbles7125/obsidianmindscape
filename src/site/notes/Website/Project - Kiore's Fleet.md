@@ -19,11 +19,6 @@ An almost-cozy, slice of life, episodic concept series.
 ![Kiore Veru-talus (colorized).png](/img/user/Kiore%20Veru-talus%20(colorized).png)
 
 
-
-![Kiore environment concept.png](/img/user/Kiore%20environment%20concept.png)
-
-
-
 ---
 ## Interiors
 
@@ -34,4 +29,16 @@ An almost-cozy, slice of life, episodic concept series.
 
 ![Kiore environment background 1.png|340](/img/user/Kiore%20environment%20background%201.png)![Kiore environment background 2.png|340](/img/user/Kiore%20environment%20background%202.png)
 ![Kiore environment background 3.png|340](/img/user/Kiore%20environment%20background%203.png)![Kiore environment background 4.png|340](/img/user/Kiore%20environment%20background%204.png)
+
+![Kiore environment concept.png](/img/user/Kiore%20environment%20concept.png)
+
+
+
+
+
+
+
+
+
+
 
