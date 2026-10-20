@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/website/mindscape-website/","tags":["gardenEntry"]}
 ---
 
-![vanura spirits.png](/img/user/mindscape/png/vanura%20spirits.png)
+
 ![vanura spirits.png](/img/user/mindscape/png/vanura%20spirits.png)
 
 ---
  
-![Lenur Verutis Logo.png| middle | 65](/img/user/mindscape/png/Lenur%20Verutis%20Logo.png)
+![Lenur Verutis Logo.png| middle | 300](/img/user/mindscape/png/Lenur%20Verutis%20Logo.png)
 
 ---
 ## <font color="#00ffa0">Pepijn Smeets</font>
